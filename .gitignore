@@ -1,0 +1,4 @@
+# Настройки Obsidian локальные у каждого устройства
+.obsidian/
+.trash/
+.DS_Store
